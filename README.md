@@ -5,8 +5,8 @@ GitHub Pages.
 
 ## Live maps
 
-- Map 1, Speed Safety Score: https://adb-challenge.github.io/Geospatial-Visualization/team-gaudt-speedsafetyscore-1-svi-viz.html
-- Map 2, Final Risk Classification: https://adb-challenge.github.io/Geospatial-Visualization/team-gaudt-speedsafetyscore-2-svi-viz.html
+- Map 1, Speed Safety Score 1: https://adb-challenge.github.io/Geospatial-Visualization/team-gaudt-speedsafetyscore-1-svi-viz.html
+- Map 2, Speed Safety Score 2: https://adb-challenge.github.io/Geospatial-Visualization/team-gaudt-speedsafetyscore-2-svi-viz.html
 - Landing page: https://adb-challenge.github.io/Geospatial-Visualization/
 
 Map 1 shows the per-segment Speed Safety Score, with accident points that carry
